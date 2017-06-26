@@ -1,0 +1,47 @@
+Trial # 1:
+
+
+Timing for encryptTwo method:
+
+
+real        0m0.131s
+
+
+Timing for encrypt method:
+
+
+real        0m8.135s
+
+
+Trial # 2:
+
+
+Timing for encryptTwo method:
+
+
+real        0m0.140s
+
+
+Timing for encrypt method:
+
+
+real        0m8.141s
+
+
+Trial # 3:
+
+
+Timing for encryptTwo method:
+
+
+real        0m0.142s
+
+
+Timing for encrypt method:
+
+
+real        0m8.146s
+
+
+Explanation: in String class, it takes a new empty String and adds element to the class, while StringBuilder allows us to manipulate String objects. Therefore, it is much faster because StringBuilder does not take any memory into creating a new String.
+Comparison: StringBuilder is definitely easier, more straightforward and fast to program because it allows us to manipulate (append character) without creating a new one.

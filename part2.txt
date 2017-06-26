@@ -1,0 +1,53 @@
+﻿Test 7 Failed (encrypt)
+Given message to encrypt is: menu
+Your Answer is: 1234
+The correct answer is: ogpw
+Explanation: this test tests for large number of rotation
+
+
+Test 8 Failed (decrypt)
+Given message to decrypt is: TLUB
+Your Answer is: MEN;
+The correct answer is: MENU
+Explanation: this test tests for large number of rotation
+
+
+Test 11 Failed (encrypt)
+Given message to encrypt is: &^B$
+Your Answer is: nfov
+The correct answer is: &^A$
+Explanation: this test tests for rotate symbols and letters together
+
+
+
+
+Test 12 Failed (decrypt)
+Given message to decrypt is: &^%$
+Your Answer is: menu
+The correct answer is: &^%$
+Explanation: this test tests for rotate symbols
+
+
+Test 13 Failed (encrypt)
+Given message to encrypt is: &^%$
+Your Answer is: nfov
+The correct answer is: &^%$
+Explanation: this test tests for rotate symbols
+
+
+
+
+Test 14 Failed (decrypt)
+Given message to decrypt is: &^A1
+Your Answer is: &_B1
+The correct answer is: &^A1
+Explanation: this test tests for rotate symbols,letters and numbers together
+
+
+
+
+Test 15 Failed (decrypt)
+Given message to decrypt is:    
+Your Answer is: &_B1
+The correct answer is:   
+Explanation: this test tests for rotate symbols,letters and numbers together
